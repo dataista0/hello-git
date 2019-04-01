@@ -18,11 +18,6 @@ movies = [
     "category": "Action"
     },
     {
-    "name": "Dark Knight",
-    "imdb": 9.0,
-    "category": "Adventure"
-    },
-    {
     "name": "The Help",
     "imdb": 8.0,
     "category": "Drama"
